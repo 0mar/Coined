@@ -1,0 +1,4 @@
+axes.spines.top: False
+axes.spines.right: False
+legend.frameon: True
+figure.figsize: 12, 4
